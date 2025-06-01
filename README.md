@@ -1,2 +1,2 @@
 # class202505
-Notebooks for class
+Class notebooks for/from students
